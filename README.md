@@ -17,7 +17,7 @@
 <br>
 <li>👩‍💻 Atualmente Desenvolvedor Back-End, e estudando tecnologias de linguagens do Back-End e Front-End, para futuramente me tornar Full-Stack. Também estou imerso nos estudos das tecnologias Machine Learning. </li>
 <br>
-<li>🎓 Após construir sólidas bases em lógica de programação, HTML, CSS, Javascript e Git/Github, tenho evoluido meu conhecimento em Python através de cursose pesquisas. </li>
+<li>🎓 Após construir sólidas bases em lógica de programação, HTML, CSS, Javascript e Git/Github, tenho evoluido meu conhecimento em Python através de cursos e pesquisas. </li>
 <br>
 <li>💻 Atualmente disponivel para atuar como Junior na area de desenvolvimento Back-End. </li>
 </ul>
