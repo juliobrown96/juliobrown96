@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img align = "right" width = "450px"  src = "[https://melhoreseusresultados.com.br/wp-content/uploads/2023/06/giphy-21.gif]">
+<img align = "right" width = "450px"  src = "...">
 <!--FIM cabeçalho HELLO WORD-->
 
 <!--inicio descrição-->
@@ -29,17 +29,17 @@
 <h2 align="center">🛠️&ensp; <i>T E C N O L O G I A S</i> &ensp;🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,linux,kubernetes,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,nodejs,docker,mysql,sql" />
   </a>
 </p>
-<br><br><br><br><br>
+<!--<br><br><br><br><br>
 <div align="center">
   <img align="left" height="360px" width="330px" alt="quote"  src = "https://i.pinimg.com/originals/e3/f8/d1/e3f8d1ec363edf1f9e4372198aeeaba2.gif">
   <a href="https://github.com/leticiamlbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialmbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialmbarros&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<br>
+<br>-->
 <!--Contatos-->
 <h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
 <div align="center">
