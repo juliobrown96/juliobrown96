@@ -8,7 +8,7 @@
 <!--FIM cabeçalho HELLO WORD-->
 
 <!--inicio descrição-->
-## Eai, Dev! Eu sou a Leticia, bem vindo ao meu mundo de códigos :)
+## Eai, Dev! Me chamo Júlio, bem vindo ao meu mundo de códigos :)
 
 <ul align="left">
 <li>📍Sou de São Paulo - SP e tenho 27 anos </li>
