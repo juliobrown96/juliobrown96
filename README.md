@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img align = "right" width = "450px"  src = "...">
+<!--<img align = "right" width = "450px"  src = "...">
 <!--FIM cabeçalho HELLO WORD-->
 
 <!--inicio descrição-->
