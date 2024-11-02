@@ -8,7 +8,7 @@
 <!--FIM cabeçalho HELLO WORD-->
 
 <!--inicio descrição-->
-## Eai, Dev! Me chamo Júlio, bem vindo ao meu mundo de códigos :)
+## Me chamo Júlio, bem vindo ao meu mundo de códigos :)
 
 <ul align="left">
 <li>📍Sou de São Paulo - SP e tenho 28 anos </li>
