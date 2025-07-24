@@ -11,7 +11,7 @@
 ## Me chamo Júlio, bem vindo ao meu mundo de códigos :)
 
 <ul align="left">
-<li>📍Sou de São Paulo - SP e tenho 28 anos </li>
+<li>📍Sou de São Paulo - SP e tenho 29 anos </li>
 <br>
 <li>🚀 Em processo de colocação no mercado de trabalho, sou formado em Ciência da Computação, estou sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho 🚀</li><br>
 <br>
