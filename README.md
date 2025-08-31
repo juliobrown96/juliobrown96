@@ -29,7 +29,7 @@
 <h2 align="center">🛠️&ensp; <i>T E C N O L O G I A S</i> &ensp;🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,nodejs,docker,mysql,sql" />
+    <img src="https://skillicons.dev/icons?i=python,php,laravel,html,css,js,nodejs,docker,mysql" />
   </a>
 </p>
 <!--<br><br><br><br><br>
