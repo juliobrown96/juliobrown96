@@ -12,16 +12,22 @@
 
 <ul align="left">
 <li>📍Sou de São Paulo - SP e tenho 29 anos </li>
-<br>
-<li>🚀 Em processo de colocação no mercado de trabalho, sou formado em Ciência da Computação, estou sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho 🚀</li><br>
-<br>
-<li>👩‍💻 Atualmente Desenvolvedor Back-End, e estudando tecnologias de linguagens do Back-End e Front-End, para futuramente me tornar Full-Stack. Também estou imerso nos estudos das tecnologias Machine Learning. </li>
-<br>
-<li>🎓 Após construir sólidas bases em lógica de programação, HTML, CSS, Javascript e Git/Github, tenho evoluido meu conhecimento em Python através de cursos e pesquisas. </li>
-<br>
-<li>💻 Atualmente disponivel para atuar como Junior na area de desenvolvimento Back-End. </li>
+  <br>
+    <li>🎓 Formado em Ciência da Computação
+        💻 Desenvolvedor Back-End Júnior em busca da primeira oportunidade profissional
+        🚀 Estudando para me tornar Full-Stack Developer e aprofundando meus conhecimentos em PHP (Laravel & Symfony) 🚀
+    </li>
+  <br>
+  <br>
+<li>📈 O que estou fazendo atualmente
+  
+  🔹 Aprofundando conhecimento em PHP com Laravel e Symfony
+  🔹 Estudando arquitetura Back-End e boas práticas
+  🔹 Construindo projetos práticos para portfólio 
+</li>
+  <br>
 </ul>
-<br>
+  <br>
 <!--FIM descrição-->
 
 <!--INICIO Tecnologias-->
