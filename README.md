@@ -21,9 +21,9 @@
   <br>
   <br>
   <li>📈 O que estou fazendo atualmente
-    <li>🔹 Aprofundando conhecimento em PHP com Laravel e Symfony </li>
+    <li>🔹 Aprimorando habilidades em desenvolvimento Back-End com PHP, com foco em Laravel e Symfony </li>
     <li>🔹 Estudando arquitetura Back-End e boas práticas </li>
-    <li>🔹 Construindo projetos práticos para portfólio </li>  
+    <li>🔹 Desenvolvendo projetos práticos para portfólio </li>  
   </li>
   <br>
 </ul>
