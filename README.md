@@ -14,16 +14,17 @@
 <li>📍Sou de São Paulo - SP e tenho 29 anos </li>
   <br>
     <li>🎓 Formado em Ciência da Computação</li>
-  <li>💻 Desenvolvedor Back-End Júnior em busca da primeira oportunidade profissional</li>
-  <li>🚀 Estudando para me tornar Full-Stack Developer e aprofundando meus conhecimentos em PHP (Laravel & Symfony) 🚀</li>
+  <br>
+    <li>💻 Desenvolvedor Back-End Júnior em busca da primeira oportunidade profissional</li>
+  <br>
+    <li>🚀 Estudando para me tornar Full-Stack Developer e aprofundando meus conhecimentos em PHP (Laravel & Symfony) 🚀</li>
   <br>
   <br>
-<li>📈 O que estou fazendo atualmente
-  
-  🔹 Aprofundando conhecimento em PHP com Laravel e Symfony
-  🔹 Estudando arquitetura Back-End e boas práticas
-  🔹 Construindo projetos práticos para portfólio 
-</li>
+  <li>📈 O que estou fazendo atualmente
+    <li>🔹 Aprofundando conhecimento em PHP com Laravel e Symfony </li>
+    <li>🔹 Estudando arquitetura Back-End e boas práticas </li>
+    <li>🔹 Construindo projetos práticos para portfólio </li>  
+  </li>
   <br>
 </ul>
   <br>
