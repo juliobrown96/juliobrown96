@@ -27,7 +27,6 @@
   </li>
   <br>
 </ul>
-  <br>
 <!--FIM descrição-->
 
 <!--INICIO Tecnologias-->
